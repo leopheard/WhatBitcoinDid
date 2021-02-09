@@ -1,6 +1,8 @@
-<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="">xxxxxxxxxx</a> podcast.<br>
+<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.whatbitcoindid.com/">What Bitcoin Did</a> podcast.<br>
 
-<img src=""><br>
+<img src="https://podcastaddict.com/cache/artwork/thumb/2063355"><br>
+
+Against many challenges, Bitcoin, the worlds first true cryptocurrency has survived for over a decade. With What Bitcoin Did, podcast host Peter McCormack talks to experts in the world of Bitcoin. From developers to investors, journalists to Bitcoin company CEOs, you will learn about everything that is happening in the world of Bitcoin.<br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
