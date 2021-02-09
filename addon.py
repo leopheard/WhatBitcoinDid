@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://podcastaddict.com/cache/artwork/thumb/2063355"},
+            'thumbnail': "https://raw.githubusercontent.com/leopheard/WhatBitcoinDid/master/resources/media/icon.jpg"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "https://podcastaddict.com/cache/artwork/thumb/2063355"},
+            'thumbnail': "https://raw.githubusercontent.com/leopheard/WhatBitcoinDid/master/resources/media/icon.jpg"},
     ]
     return items
 @plugin.route('/episodes1/')

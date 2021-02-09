@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.whatbitcoindid.com/">What Bitcoin Did</a> podcast.<br>
 
-<img src="https://podcastaddict.com/cache/artwork/thumb/2063355"><br>
+<img src="https://raw.githubusercontent.com/leopheard/WhatBitcoinDid/master/resources/media/icon.jpg"><br>
 
 Against many challenges, Bitcoin, the worlds first true cryptocurrency has survived for over a decade. With What Bitcoin Did, podcast host Peter McCormack talks to experts in the world of Bitcoin. From developers to investors, journalists to Bitcoin company CEOs, you will learn about everything that is happening in the world of Bitcoin.<br>
 
