@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://raw.githubusercontent.com/leopheard/WhatBitcoinDid/master/resources/media/icon.jpg"},
+            'thumbnail': "https://images.squarespace-cdn.com/content/59641a28ff7c5099c12a5eda/1612857082758-RE54NSHW3MSCO3JKF8MH/What+Bitcoin+Did-Podcast-Avatar+2021+%282%29.png"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "https://raw.githubusercontent.com/leopheard/WhatBitcoinDid/master/resources/media/icon.jpg"},
+            'thumbnail': "https://images.squarespace-cdn.com/content/59641a28ff7c5099c12a5eda/1612857082758-RE54NSHW3MSCO3JKF8MH/What+Bitcoin+Did-Podcast-Avatar+2021+%282%29.png"},
     ]
     return items
 @plugin.route('/episodes1/')
